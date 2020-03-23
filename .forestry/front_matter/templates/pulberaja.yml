@@ -1,6 +1,7 @@
 ---
 label: PulberAja
 hide_body: false
+display_field: layout
 fields:
 - type: text
   name: layout
